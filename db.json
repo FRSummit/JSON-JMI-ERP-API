@@ -529,5 +529,13 @@
       "key_contact": "MD Fazlul Azim Khan Swad",
       "phone": "016XXXXXXXX"
     }
+  ],
+  "test": [
+    {
+      "name": "FRS"
+    },
+    {
+      "name": "HSR"
+    }
   ]
 }
