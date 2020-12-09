@@ -1,0 +1,17 @@
+{
+  "name": "json-server-deploy",
+  "version": "1.0.0",
+  "description": "I am F R Summit - JERP demo server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "json-server,heroku, node, REST API"
+  ],
+  "author": "F R Summit",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.2"
+  }
+}

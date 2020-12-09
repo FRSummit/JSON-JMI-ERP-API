@@ -1,0 +1,533 @@
+{
+  "jerp_menu": [
+    {
+      "primary_menu": "Setting & Management - Setting & Management",
+      "secondary_menu_list": [
+        {
+          "secondary_menu": "Codes",
+          "left_icon": "./Icons/Group 1383.svg",
+          "url": "adm/setting&management/codes",
+          "tertiary_menu_list": [
+            {
+              "tertiary_menu": "Product Management",
+              "left_icon": "./Icons/Group 1383.svg",
+              "url": "adm/setting&management/codes/product-management"
+            },
+            {
+              "tertiary_menu": "Product Management",
+              "left_icon": "./Icons/Group 1383.svg",
+              "url": "adm/setting&management/codes/product-management"
+            },
+            {
+              "tertiary_menu": "Product Management",
+              "left_icon": "./Icons/Group 1383.svg",
+              "url": "adm/setting&management/codes/product-management"
+            }
+          ]
+        },
+        {
+          "secondary_menu": "Preference",
+          "left_icon": "./Icons/preference_icon.svg",
+          "url": "adm/setting&management/preference",
+          "tertiary_menu_list": [
+            {
+              "tertiary_menu": "Preference 1",
+              "left_icon": "./Icons/Group 1383.svg",
+              "url": "adm/setting&management/preference/preference1"
+            },
+            {
+              "tertiary_menu": "Preference 2",
+              "left_icon": "./Icons/Group 1383.svg",
+              "url": "adm/setting&management/preference/preference2"
+            },
+            {
+              "tertiary_menu": "Preference 3",
+              "left_icon": "./Icons/Group 1383.svg",
+              "url": "adm/setting&management/preference/preference3"
+            }
+          ]
+        },
+        {
+          "secondary_menu": "SBU",
+          "left_icon": "./Icons/Sbu_icon.svg",
+          "url": "adm/setting&management/sub"
+        },
+        {
+          "secondary_menu": "Notification",
+          "left_icon": "./Icons/bell_icon.svg",
+          "url": "adm/setting&management/notification"
+        },
+        {
+          "secondary_menu": "Approval Thread",
+          "left_icon": "./Icons/approval icon.svg",
+          "url": "adm/setting&management/approval-thread"
+        },
+        {
+          "secondary_menu": "Aduit Trial",
+          "left_icon": "./Icons/audit_icon.svg",
+          "url": "adm/setting&management/audit-trial"
+        },
+        {
+          "secondary_menu": "Backup & Restore",
+          "left_icon": "./Icons/backup_icon.svg",
+          "url": "adm/setting&management/backup&restore"
+        }
+      ]
+    },
+    {
+      "primary_menu": "Background Process",
+      "secondary_menu_list": [
+        {
+          "secondary_menu": "Background Process Secondary 1",
+          "left_icon": "./Icons/Group 1383.svg",
+          "url": "adm/setting&management/background-process/background-process-secondary1"
+        },
+        {
+          "secondary_menu": "Background Process Secondary 2",
+          "left_icon": "./Icons/preference_icon.svg",
+          "url": "adm/setting&management/background-process/background-process-secondary2"
+        },
+        {
+          "secondary_menu": "Background Process Secondary 3",
+          "left_icon": "./Icons/Sbu_icon.svg",
+          "url": "adm/setting&management/background-process/background-process-secondary3"
+        }
+      ]
+    },
+    {
+      "primary_menu": "Syatem Administrator",
+      "secondary_menu_list": [
+        {
+          "secondary_menu": "Syatem Administrator Secondary",
+          "left_icon": "./Icons/Group 1383.svg",
+          "url": ""
+        },
+        {
+          "secondary_menu": "Syatem Administrator Secondary",
+          "left_icon": "./Icons/preference_icon.svg",
+          "url": ""
+        },
+        {
+          "secondary_menu": "Syatem Administrator Secondary",
+          "left_icon": "./Icons/Sbu_icon.svg",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "primary_menu": "User Functionality",
+      "secondary_menu_list": [
+        {
+          "secondary_menu": "User Functionality Secondary",
+          "left_icon": "./Icons/Group 1383.svg",
+          "url": ""
+        },
+        {
+          "secondary_menu": "User Functionality Secondary",
+          "left_icon": "./Icons/preference_icon.svg",
+          "url": ""
+        },
+        {
+          "secondary_menu": "User Functionality Secondary",
+          "left_icon": "./Icons/Sbu_icon.svg",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "primary_menu": "Admin Reports",
+      "secondary_menu_list": [
+        {
+          "secondary_menu": "Admin Reports Secondary",
+          "left_icon": "./Icons/Group 1383.svg",
+          "url": ""
+        },
+        {
+          "secondary_menu": "Admin Reports Secondary",
+          "left_icon": "./Icons/preference_icon.svg",
+          "url": ""
+        },
+        {
+          "secondary_menu": "Admin Reports Secondary",
+          "left_icon": "./Icons/Sbu_icon.svg",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "primary_menu": "Reference / Glassary",
+      "secondary_menu_list": [
+        {
+          "secondary_menu": "Reference / Glassary Secondary",
+          "left_icon": "./Icons/Group 1383.svg",
+          "url": "",
+          "tertiary_menu_list": [
+            {
+              "tertiary_menu": "Preference",
+              "left_icon": "./Icons/Group 1383.svg",
+              "url": ""
+            },
+            {
+              "tertiary_menu": "Preference",
+              "left_icon": "./Icons/Group 1383.svg",
+              "url": ""
+            },
+            {
+              "tertiary_menu": "Preference",
+              "left_icon": "./Icons/Group 1383.svg",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "secondary_menu": "Reference / Glassary Secondary",
+          "left_icon": "./Icons/preference_icon.svg",
+          "url": ""
+        },
+        {
+          "secondary_menu": "Reference / Glassary Secondary",
+          "left_icon": "./Icons/Sbu_icon.svg",
+          "url": "",
+          "tertiary_menu_list": [
+            {
+              "tertiary_menu": "Preference",
+              "left_icon": "./Icons/Group 1383.svg",
+              "url": ""
+            },
+            {
+              "tertiary_menu": "Preference",
+              "left_icon": "./Icons/Group 1383.svg",
+              "url": ""
+            },
+            {
+              "tertiary_menu": "Preference",
+              "left_icon": "./Icons/Group 1383.svg",
+              "url": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "company_list": [
+    {
+      "name": "Come from Server"
+    },
+    {
+      "name": "JMI Builders"
+    },
+    {
+      "name": "Mononsoft Ltd"
+    },
+    {
+      "name": "Nipro JMI Pharma"
+    },
+    {
+      "name": "JMI Industrial GAS Ltd"
+    },
+    {
+      "name": "Mononsoft Ltd"
+    },
+    {
+      "name": "Nipro JMI Pharma"
+    },
+    {
+      "name": "JMI Industrial GAS Ltd"
+    }
+  ],
+  "chat": [
+    {
+      "title": "F R Summit",
+      "description": "I came from server. I came from server. I came from server. I came from server.",
+      "icon": "./Icons/user.png"
+    },
+    {
+      "title": "Syed Arif",
+      "description": "Do not go gentle into that good night, Old age should..",
+      "icon": "./Icons/user.png"
+    },
+    {
+      "title": "Syed Arif",
+      "description": "Do not go gentle into that good night, Old age should..",
+      "icon": "./Icons/user.png"
+    },
+    {
+      "title": "Syed Arif",
+      "description": "Do not go gentle into that good night, Old age should..",
+      "icon": "./Icons/user.png"
+    },
+    {
+      "title": "Syed Arif",
+      "description": "Do not go gentle into that good night, Old age should..",
+      "icon": "./Icons/user.png"
+    },
+    {
+      "title": "Syed Arif",
+      "description": "Do not go gentle into that good night, Old age should..",
+      "icon": "./Icons/user.png"
+    },
+    {
+      "title": "Syed Arif",
+      "description": "Do not go gentle into that good night, Old age should..",
+      "icon": "./Icons/user.png"
+    },
+    {
+      "title": "Syed Arif",
+      "description": "Do not go gentle into that good night, Old age should..",
+      "icon": "./Icons/user.png"
+    },
+    {
+      "title": "Syed Arif",
+      "description": "Do not go gentle into that good night, Old age should..",
+      "icon": "./Icons/user.png"
+    },
+    {
+      "title": "Syed Arif",
+      "description": "Do not go gentle into that good night, Old age should..",
+      "icon": "./Icons/user.png"
+    },
+    {
+      "title": "Syed Arif",
+      "description": "Do not go gentle into that good night, Old age should..",
+      "icon": "./Icons/user.png"
+    },
+    {
+      "title": "Syed Arif",
+      "description": "Do not go gentle into that good night, Old age should..",
+      "icon": "./Icons/user.png"
+    },
+    {
+      "title": "Syed Arif",
+      "description": "Do not go gentle into that good night, Old age should..",
+      "icon": "./Icons/user.png"
+    },
+    {
+      "title": "Syed Arif",
+      "description": "Do not go gentle that good night, This is a long text for nowrap",
+      "icon": "./Icons/user.png"
+    }
+  ],
+  "noification": [
+    {
+      "title": "Server Notification",
+      "description": "This is a server testing notification and comes from FRSkynet server. Thank you for hitting FRS connection."
+    },
+    {
+      "title": "Feature 24 Offline",
+      "description": "Experience since 1995 in different part of IT and Research Industry like MIS Design,"
+    },
+    {
+      "title": "Feature 24 Offline",
+      "description": "Experience since 1995 in different part of IT and Research Industry like MIS Design,"
+    },
+    {
+      "title": "Feature 24 Offline",
+      "description": "Experience since 1995 in different part of IT and Research Industry like MIS Design,"
+    },
+    {
+      "title": "Feature 24 Offline",
+      "description": "Experience since 1995 in different part of IT and Research Industry like MIS Design,"
+    },
+    {
+      "title": "Feature 24 Offline",
+      "description": "Experience since 1995 in different part of IT and Research Industry like MIS Design,"
+    },
+    {
+      "title": "Feature 24 Offline",
+      "description": "Experience since 1995 in different part of IT and Research Industry like MIS Design,"
+    },
+    {
+      "title": "Feature 24 Offline",
+      "description": "Experience since 1995 in different part of IT and Research Industry like MIS Design,"
+    },
+    {
+      "title": "Feature 24 Offline",
+      "description": "Experience since 1995 in different part of IT and Research Industry like MIS Design,"
+    },
+    {
+      "title": "Feature 24 Offline",
+      "description": "Experience since 1995 in different part of IT and Research Industry like MIS Design,"
+    },
+    {
+      "title": "Feature 24 Offline",
+      "description": "Experience since 1995 in different part of IT and Research Industry like MIS Design,"
+    }
+  ],
+  "user": [
+    {
+      "name": "F R Summit",
+      "designation": "Sr. Software Engineer",
+      "role": [
+        {
+          "role": "Admin"
+        },
+        {
+          "role": "Developer"
+        },
+        {
+          "role": "User"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "firstName": "F R",
+      "lastName": "Summit",
+      "username": "frsummit",
+      "password": "123456"
+    },
+    {
+      "id": 2,
+      "firstName": "F R",
+      "lastName": "User 2",
+      "username": "user2",
+      "password": "012345"
+    },
+    {
+      "id": 3,
+      "firstName": "F R",
+      "lastName": "User 3",
+      "username": "user3",
+      "password": "123450"
+    },
+    {
+      "id": 3,
+      "firstName": "F R",
+      "lastName": "Administrator",
+      "username": "admin",
+      "password": "123456"
+    }
+  ],
+  "competitors_data": [
+    {
+      "name": "RX Pharmacy",
+      "code": "JMI-2231225",
+      "address": "15 Genda, Dhaka-Aricha Hwy, Savar Union, Dhaka 1212",
+      "market_share": "13%",
+      "market_size": "10000000",
+      "major_products": "20"
+    },
+    {
+      "name": "RX Pharmacy",
+      "code": "JMI-2231225",
+      "address": "15 Genda, Dhaka-Aricha Hwy, Savar Union, Dhaka 1212",
+      "market_share": "13%",
+      "market_size": "10000000",
+      "major_products": "20"
+    },
+    {
+      "name": "RX Pharmacy",
+      "code": "JMI-2231225",
+      "address": "15 Genda, Dhaka-Aricha Hwy, Savar Union, Dhaka 1212",
+      "market_share": "13%",
+      "market_size": "10000000",
+      "major_products": "20"
+    },
+    {
+      "name": "ABI Pharmacy and Diagnostic Center",
+      "code": "JMI-2231225",
+      "address": "15 Genda, Dhaka-Aricha Hwy, Savar Union, Dhaka 1212",
+      "market_share": "13%",
+      "market_size": "10000000",
+      "major_products": "20"
+    },
+    {
+      "name": "RX Pharmacy",
+      "code": "JMI-2231225",
+      "address": "15 Genda, Dhaka-Aricha Hwy, Savar Union, Dhaka 1212",
+      "market_share": "13%",
+      "market_size": "10000000",
+      "major_products": "20"
+    }
+  ],
+  "sub_data": [
+    {
+      "name": "SGD Pharma",
+      "id_number": "JMI20201203",
+      "sister_concern": "4",
+      "active_user": "3",
+      "status": "Active"
+    },
+    {
+      "name": "SGD Pharma",
+      "id_number": "JMI20201203",
+      "sister_concern": "3",
+      "active_user": "5",
+      "status": "Pending"
+    },
+    {
+      "name": "SGD Pharma",
+      "id_number": "JMI20201203",
+      "sister_concern": "2",
+      "active_user": "7",
+      "status": "Closed"
+    },
+    {
+      "name": "SGD Pharma",
+      "id_number": "JMI20201203",
+      "sister_concern": "9",
+      "active_user": "3",
+      "status": "Blocked"
+    },
+    {
+      "name": "SGD Pharma",
+      "id_number": "JMI20201203",
+      "sister_concern": "5",
+      "active_user": "6",
+      "status": "Active"
+    },
+    {
+      "name": "SGD Pharma",
+      "id_number": "JMI20201203",
+      "sister_concern": "0",
+      "active_user": "4",
+      "status": "Pending"
+    },
+    {
+      "name": "SGD Pharma",
+      "id_number": "JMI20201203",
+      "sister_concern": "5",
+      "active_user": "5",
+      "status": "Closed"
+    },
+    {
+      "name": "SGD Pharma",
+      "id_number": "JMI20201203",
+      "sister_concern": "8",
+      "active_user": "3",
+      "status": "Blocked"
+    }
+  ],
+  "sister_concern_data": [
+    {
+      "name": "Nipro JMI Dyalysis Center Ltd",
+      "short_code": "jtex",
+      "admin": "MD Fazlul Azim Khan Swad",
+      "key_contact": "MD Fazlul Azim Khan Swad",
+      "phone": "016XXXXXXXX"
+    },
+    {
+      "name": "Nipro JMI Dyalysis Center Ltd",
+      "short_code": "jtex",
+      "admin": "MD Fazlul Azim Khan Swad",
+      "key_contact": "MD Fazlul Azim Khan Swad",
+      "phone": "016XXXXXXXX"
+    },
+    {
+      "name": "Nipro JMI Dyalysis Center Ltd",
+      "short_code": "jtex",
+      "admin": "MD Fazlul Azim Khan Swad",
+      "key_contact": "MD Fazlul Azim Khan Swad",
+      "phone": "016XXXXXXXX"
+    },
+    {
+      "name": "Nipro JMI Dyalysis Center Ltd",
+      "short_code": "jtex",
+      "admin": "MD Fazlul Azim Khan Swad",
+      "key_contact": "MD Fazlul Azim Khan Swad",
+      "phone": "016XXXXXXXX"
+    }
+  ]
+}
