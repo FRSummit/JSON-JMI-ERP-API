@@ -532,94 +532,90 @@
   ],
   "geo_location": [
     {
-      "geo_location_area": [
+      "division": "Dhaka",
+      "district": [
         {
-          "division": "Dhaka",
-          "district": [
+          "district_name": "Dhaka",
+          "thana": [
             {
-              "district_name": "Dhaka",
-              "thana": [
-                {
-                  "thana_name": "Uttara"
-                },
-                {
-                  "thana_name": "Gulshan"
-                },
-                {
-                  "thana_name": "Vatara"
-                },
-                {
-                  "thana_name": "Rampura"
-                }
-              ]
+              "thana_name": "Uttara"
             },
             {
-              "district_name": "Gazipur",
-              "thana": [
-                {
-                  "thana_name": "Gazipur_Thana_1"
-                },
-                {
-                  "thana_name": "Gazipur_Thana_2"
-                }
-              ]
+              "thana_name": "Gulshan"
+            },
+            {
+              "thana_name": "Vatara"
+            },
+            {
+              "thana_name": "Rampura"
             }
           ]
         },
         {
-          "division": "Mymensingh",
-          "district": [
+          "district_name": "Gazipur",
+          "thana": [
             {
-              "district_name": "Mymensingh",
-              "thana": [
-                {
-                  "thana_name": "Fulbaria"
-                },
-                {
-                  "thana_name": "Trishal"
-                },
-                {
-                  "thana_name": "Kotuali"
-                }
-              ]
+              "thana_name": "Gazipur_Thana_1"
             },
             {
-              "district_name": "Sherpur",
-              "thana": [
-                {
-                  "thana_name": "Sherpur_Thana_1"
-                },
-                {
-                  "thana_name": "Sherpur_Thana_2"
-                }
-              ]
+              "thana_name": "Gazipur_Thana_2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "division": "Mymensingh",
+      "district": [
+        {
+          "district_name": "Mymensingh",
+          "thana": [
+            {
+              "thana_name": "Fulbaria"
+            },
+            {
+              "thana_name": "Trishal"
+            },
+            {
+              "thana_name": "Kotuali"
             }
           ]
         },
         {
-          "division": "Khulna",
-          "district": [
+          "district_name": "Sherpur",
+          "thana": [
             {
-              "district_name": "Bagerhat",
-              "thana": [
-                {
-                  "thana_name": "Bagerhat_Thana_1"
-                },
-                {
-                  "thana_name": "Bagerhat_Thana_1"
-                }
-              ]
+              "thana_name": "Sherpur_Thana_1"
             },
             {
-              "district_name": "Satkhira",
-              "thana": [
-                {
-                  "thana_name": "Satkhira_Thana_1"
-                },
-                {
-                  "thana_name": "Satkhira_Thana_2"
-                }
-              ]
+              "thana_name": "Sherpur_Thana_2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "division": "Khulna",
+      "district": [
+        {
+          "district_name": "Bagerhat",
+          "thana": [
+            {
+              "thana_name": "Bagerhat_Thana_1"
+            },
+            {
+              "thana_name": "Bagerhat_Thana_1"
+            }
+          ]
+        },
+        {
+          "district_name": "Satkhira",
+          "thana": [
+            {
+              "thana_name": "Satkhira_Thana_1"
+            },
+            {
+              "thana_name": "Satkhira_Thana_2"
             }
           ]
         }
