@@ -591,6 +591,31 @@
               "thana_name": "Sherpur_Thana_2"
             }
           ]
+        },
+        {
+          "district_name": "Netrokona",
+          "thana": [
+            {
+              "thana_name": "Netrokona_Thana_1"
+            },
+            {
+              "thana_name": "Netrokona_Thana_2"
+            },
+            {
+              "thana_name": "Netrokona_Thana_3"
+            }
+          ]
+        },
+        {
+          "district_name": "Jamalpur",
+          "thana": [
+            {
+              "thana_name": "Jamalpur_Thana_1"
+            },
+            {
+              "thana_name": "Jamalpur_Thana_2"
+            }
+          ]
         }
       ]
     },
