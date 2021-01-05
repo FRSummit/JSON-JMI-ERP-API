@@ -1,7 +1,8 @@
 {
   "jerp_menu": [
     {
-      "primary_menu": "Setting & Management",
+      "primary_menu": "Profile Settings",
+      "icon_class": "",
       "secondary_menu_list": [
         {
           "secondary_menu": "Codes",
@@ -75,7 +76,8 @@
       ]
     },
     {
-      "primary_menu": "Background Process",
+      "primary_menu": "Swich Role",
+      "icon_class": "fas fa-exchange-alt",
       "secondary_menu_list": [
         {
           "secondary_menu": "Background Process Secondary 1",
@@ -95,27 +97,8 @@
       ]
     },
     {
-      "primary_menu": "Syatem Administrator",
-      "secondary_menu_list": [
-        {
-          "secondary_menu": "Syatem Administrator Secondary",
-          "left_icon": "./Icons/Group 1383.svg",
-          "url": ""
-        },
-        {
-          "secondary_menu": "Syatem Administrator Secondary",
-          "left_icon": "./Icons/preference_icon.svg",
-          "url": ""
-        },
-        {
-          "secondary_menu": "Syatem Administrator Secondary",
-          "left_icon": "./Icons/Sbu_icon.svg",
-          "url": ""
-        }
-      ]
-    },
-    {
-      "primary_menu": "User Functionality",
+      "primary_menu": "Configuration",
+      "icon_class": "zmdi zmdi-wrench",
       "secondary_menu_list": [
         {
           "secondary_menu": "User Functionality Secondary",
@@ -135,7 +118,8 @@
       ]
     },
     {
-      "primary_menu": "Admin Reports",
+      "primary_menu": "Administration",
+      "icon_class": "icofont-user-alt-1",
       "secondary_menu_list": [
         {
           "secondary_menu": "Admin Reports Secondary",
@@ -155,7 +139,8 @@
       ]
     },
     {
-      "primary_menu": "Reference / Glassary",
+      "primary_menu": "PROCESS",
+      "icon_class": "zmdi zmdi-hourglass-alt",
       "secondary_menu_list": [
         {
           "secondary_menu": "Reference / Glassary Secondary",
@@ -205,6 +190,71 @@
               "url": ""
             }
           ]
+        }
+      ]
+    },
+    {
+      "primary_menu": "SECURITY",
+      "icon_class": "zmdi zmdi-shield-security"
+    },
+    {
+      "primary_menu": "REPORTS",
+      "icon_class": "zmdi zmdi-trending-up"
+    },
+    {
+      "primary_menu": "INVENTORY",
+      "icon_class": "zmdi zmdi-storage"
+    },
+    {
+      "primary_menu": "STAKEHOLDERS",
+      "icon_class": "icofont-users-alt-1"
+    },
+    {
+      "primary_menu": "SALES_PROMOTIONS",
+      "icon_class": "icofont-mega-phone"
+    },
+    {
+      "primary_menu": "LOCAL_SALES",
+      "icon_class": "icofont-flag"
+    },
+    {
+      "primary_menu": "OPERATIONS",
+      "icon_class": "icofont-site-map"
+    },
+    {
+      "primary_menu": "MARKETING AND CRM",
+      "icon_class": "zmdi zmdi-case"
+    },
+    {
+      "primary_menu": "PERFORMANCE",
+      "icon_class": "icofont-hand-thunder"
+    },
+    {
+      "primary_menu": "EXPORT/TENDER_SALES",
+      "icon_class": "icofont-pie-chart"
+    },
+    {
+      "primary_menu": "CLIENTS AREA",
+      "icon_class": "zmdi zmdi-pin"
+    },
+    {
+      "primary_menu": "Extras",
+      "icon_class": "zmdi zmdi-widgets",
+      "secondary_menu_list": [
+        {
+          "secondary_menu": "Syatem Administrator Secondary",
+          "left_icon": "./Icons/Group 1383.svg",
+          "url": ""
+        },
+        {
+          "secondary_menu": "Syatem Administrator Secondary",
+          "left_icon": "./Icons/preference_icon.svg",
+          "url": ""
+        },
+        {
+          "secondary_menu": "Syatem Administrator Secondary",
+          "left_icon": "./Icons/Sbu_icon.svg",
+          "url": ""
         }
       ]
     }
