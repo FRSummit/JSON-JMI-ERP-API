@@ -2,7 +2,7 @@
   "jerp_menu": [
     {
       "primary_menu": "Profile Settings",
-      "icon_class": "",
+      "icon_class": "zmdi zmdi-settings",
       "secondary_menu_list": [
         {
           "secondary_menu": "Codes",
