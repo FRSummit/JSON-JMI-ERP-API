@@ -119,7 +119,7 @@
     },
     {
       "primary_menu": "Administration",
-      "icon_class": "icofont-user-alt-1",
+      "icon_class": "icofont-royal",
       "secondary_menu_list": [
         {
           "secondary_menu": "Admin Reports Secondary",
@@ -199,7 +199,7 @@
     },
     {
       "primary_menu": "REPORTS",
-      "icon_class": "zmdi zmdi-trending-up"
+      "icon_class": "icofont-ui-file"
     },
     {
       "primary_menu": "INVENTORY",
@@ -227,7 +227,7 @@
     },
     {
       "primary_menu": "PERFORMANCE",
-      "icon_class": "icofont-hand-thunder"
+      "icon_class": "zmdi zmdi-flash"
     },
     {
       "primary_menu": "EXPORT/TENDER_SALES",
