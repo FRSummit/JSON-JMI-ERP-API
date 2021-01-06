@@ -227,7 +227,7 @@
     },
     {
       "primary_menu": "PERFORMANCE",
-      "icon_class": "zmdi zmdi-flash"
+      "icon_class": "fas fa-trophy"
     },
     {
       "primary_menu": "EXPORT/TENDER_SALES",
