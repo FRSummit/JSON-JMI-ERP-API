@@ -119,7 +119,7 @@
     },
     {
       "primary_menu": "Administration",
-      "icon_class": "icofont-royal",
+      "icon_class": "icofont-puzzle",
       "secondary_menu_list": [
         {
           "secondary_menu": "Admin Reports Secondary",
