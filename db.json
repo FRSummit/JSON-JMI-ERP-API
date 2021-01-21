@@ -696,5 +696,153 @@
         }
       ]
     }
+  ],
+  "DA_list": [
+    {
+      "name":"F R Summit"
+    },
+    {
+      "name":"Fayazur Rahman Summit"
+    },
+    {
+      "name":"F R Summit"
+    },
+    {
+      "name":"Fayazur Rahman Summit"
+    },
+    {
+      "name":"F R Summit"
+    },
+    {
+      "name":"Fayazur Rahman Summit"
+    },
+    {
+      "name":"F R Summit"
+    },
+    {
+      "name":"Fayazur Rahman Summit"
+    }
+  ],
+  "delivery_schedule": [
+    {
+      "position": "#OID102131",
+      "location_name": "New Gulshan Pharma",
+      "lat": "24.258741",
+      "lng": "90.369852",
+      "territorry": "Territory Name",
+      "date": "09/12/2020"
+    },
+    {
+      "position": "#OID102131",
+      "location_name": "New Gulshan Pharma",
+      "lat": "24.258741",
+      "lng": "90.369852",
+      "territorry": "Territory Name",
+      "date": "09/12/2020"
+    },
+    {
+      "position": "#OID102131",
+      "location_name": "New Gulshan Pharma",
+      "lat": "24.258741",
+      "lng": "90.369852",
+      "territorry": "Territory Name",
+      "date": "09/12/2020"
+    },
+    {
+      "position": "#OID102131",
+      "location_name": "New Gulshan Pharma",
+      "lat": "24.258741",
+      "lng": "90.369852",
+      "territorry": "Territory Name",
+      "date": "09/12/2020"
+    },
+    {
+      "position": "#OID102131",
+      "location_name": "New Gulshan Pharma",
+      "lat": "24.258741",
+      "lng": "90.369852",
+      "territorry": "Territory Name",
+      "date": "09/12/2020"
+    },
+    {
+      "position": "#OID102131",
+      "location_name": "New Gulshan Pharma",
+      "lat": "24.258741",
+      "lng": "90.369852",
+      "territorry": "Territory Name",
+      "date": "09/12/2020"
+    },
+    {
+      "position": "#OID102131",
+      "location_name": "New Gulshan Pharma",
+      "lat": "24.258741",
+      "lng": "90.369852",
+      "territorry": "Territory Name",
+      "date": "09/12/2020"
+    },
+    {
+      "position": "#OID102131",
+      "location_name": "New Gulshan Pharma",
+      "lat": "24.258741",
+      "lng": "90.369852",
+      "territorry": "Territory Name",
+      "date": "09/12/2020"
+    },
+    {
+      "position": "#OID102131",
+      "location_name": "New Gulshan Pharma",
+      "lat": "24.258741",
+      "lng": "90.369852",
+      "territorry": "Territory Name",
+      "date": "09/12/2020"
+    },
+    {
+      "position": "#OID102131",
+      "location_name": "New Gulshan Pharma",
+      "lat": "24.258741",
+      "lng": "90.369852",
+      "territorry": "Territory Name",
+      "date": "09/12/2020"
+    },
+    {
+      "position": "#OID102131",
+      "location_name": "New Gulshan Pharma",
+      "lat": "24.258741",
+      "lng": "90.369852",
+      "territorry": "Territory Name",
+      "date": "09/12/2020"
+    },
+    {
+      "position": "#OID102131",
+      "location_name": "New Gulshan Pharma",
+      "lat": "24.258741",
+      "lng": "90.369852",
+      "territorry": "Territory Name",
+      "date": "09/12/2020"
+    },
+    {
+      "position": "#OID102131",
+      "location_name": "New Gulshan Pharma",
+      "lat": "24.258741",
+      "lng": "90.369852",
+      "territorry": "Territory Name",
+      "date": "09/12/2020"
+    },
+    {
+      "position": "#OID102131",
+      "location_name": "New Gulshan Pharma",
+      "lat": "24.258741",
+      "lng": "90.369852",
+      "territorry": "Territory Name",
+      "date": "09/12/2020"
+    },
+    {
+      "position": "#OID102131",
+      "location_name": "New Gulshan Pharma",
+      "lat": "24.258741",
+      "lng": "90.369852",
+      "territorry": "Territory Name",
+      "date": "09/12/2020"
+    }
   ]
 }
